@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/test-helpers": "^0.5.16",
     "chai": "^4.3.10",
     "ethers": "^5.7.2",
     "hardhat": "^2.19.0"
