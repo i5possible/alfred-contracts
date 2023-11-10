@@ -1,3 +1,9 @@
+# Hardhat
+cache/
+artifacts/
+coverage*
+typechain
+
 # Logs
 logs
 *.log
